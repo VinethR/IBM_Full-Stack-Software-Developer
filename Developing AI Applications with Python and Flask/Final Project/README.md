@@ -1,1 +1,3 @@
 Creating an AI-based web app that performs analytics on customer feedback for their signature products. To accomplish this requirement,should create an Emotion Detection system that processes feedback provided by the customer in text format and deciphers the associated emotion expressed.
+
+Emotion detection extends the concept of sentiment analysis by extracting the finer emotions, like joy, sadness, anger, and so on, from statements rather than the simple polarity that sentiment analysis provides. This makes emotion detection a very important branch of study and businesses use such systems widely for their AI based recommendation systems, automated chat bots, and so on.
